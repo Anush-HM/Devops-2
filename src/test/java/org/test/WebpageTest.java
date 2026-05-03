@@ -17,7 +17,7 @@ public class WebpageTest {
 
         driver.manage().window().maximize();
         Thread.sleep(2000);
-        driver.get("https://your-github-page-link");
+        driver.get("https://anush-hm.github.io/Devops-2/");
     }
     @Test
     public void titleValidationTest() {
